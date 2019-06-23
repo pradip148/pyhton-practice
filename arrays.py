@@ -1,5 +1,6 @@
+""" for using array we need to import array module """
 from array import *
-vals=array('i',[ 8,5,6,7,4 ])
+vals=array('i',[ 8,5,6,7,4 ]) # (i) <- type of values
 newarray=array(vals.typecode,(b for b in vals))
 print(newarray)
 print(id(vals))
