@@ -1,4 +1,4 @@
-""" alloes to creat new list based on exciting list with some condition """
+""" allows to creat new list based on exciting list with some condition """
 """ it always returns list only """
 
 a=[1,2,3,4,5,6,7,8,9]
