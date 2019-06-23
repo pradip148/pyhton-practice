@@ -1,4 +1,4 @@
-""" intersection of  two lists
+""" intersection of  two lists """
 
 a=[]
 b=[]
@@ -42,8 +42,8 @@ for i in z:
     sum=sum+i
     mul=mul*i
 print("sum of all element from list is {}".format(sum))
-print("mul of all element from list is {}".format(mul))"""
-"""x=[]
+print("mul of all element from list is {}".format(mul))
+x=[]
 y=[]
 evencout=0
 oddcout=0
@@ -60,7 +60,7 @@ for i in a:
 print(" even numbers= {}".format(x))
 print(" odd numbers ={}".format(y))
 print("even count={}".format(evencout))
-print("odd count={}".format(oddcout))"""
+print("odd count={}".format(oddcout))
 
 l=[8,2, 3, 4, 5, 2, 3, 6,5, 6]
 print(l)
@@ -68,7 +68,7 @@ l[0]=1111
 print(l)
 
 
-"""y=[]
+y=[]
 x=[1,2,3,4,5,1,2,5,9,8,7,2,]
 t=set(x)
 for i in t:
@@ -78,7 +78,7 @@ print(x)
 print(t)
 print(type(t))
 print(y)
-print(type(y))"""
+print(type(y))
 
 
 
